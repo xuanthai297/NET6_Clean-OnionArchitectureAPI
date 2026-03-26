@@ -17,9 +17,9 @@
 - Serilog Logging 
 - Automapper
 - Docker
-- JWT Authentication, Refresh Token
-- Complete User Management  (Register / Forgot Password / Confirmation Mail) Without Identity
-- Role Based Authorization
+- JWT Authentication, Refresh Tokens
+- Full User Management (Register, Login, Forgot Password, Email Confirmation) Without ASP.NET Core Identity
+- Role-Based Authorization
 - Database Seeding
 - Custom Exception Handling Middleware
 
