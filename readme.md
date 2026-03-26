@@ -15,7 +15,7 @@
 - Serilog
 - Automapper
 - Docker
-- JWT Authentication,Refresh Token
+- JWT Authentication, Refresh Token
 - Complete User Management  (Register / Forgot Password / Confirmation Mail) Without Identity
 - Role Based Authorization
 - Database Seeding
