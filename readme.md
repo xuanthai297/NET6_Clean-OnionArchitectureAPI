@@ -16,7 +16,7 @@
 - Automapper
 - Docker
 - JWT Authentication, Refresh Tokens
-- Full User Management (Register, Login, Forgot Password, Email Confirmation) Without ASP.NET Core Identity
+- Full User Management (Register, Login, Logout, Forgot Password, Change Password, Email Confirmation) Without ASP.NET Core Identity
 - Role-Based Authorization
 - Database Seeding
 - Custom Exception Handling Middleware
